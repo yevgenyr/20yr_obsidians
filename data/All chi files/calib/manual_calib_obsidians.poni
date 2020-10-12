@@ -1,0 +1,18 @@
+# Nota: manually-written file for PED of BMG
+# Mitra Taheri - PI ; Johns Hopkins 
+# Jamie Hart - main experimentalist ; Johns Hopkins 
+# Partha Pratim Das- Data analyst from, NanoMEGAS SPRL
+# Calibration is based on : Ni diffraction peaks at a crystaline phase
+# Material: metallic glass (BMG): Zr65Cu17.5Ni10Al7.5
+# External inputs: 125 ppcm ; 200 keV ; 0.0319 A^-1/pixel
+# [Distance]:m ; [pixel1/2]:pixels per m ;    
+poni_version: 2
+Detector: detector
+Detector_config: {"pixel1": 0.00008, "pixel2": 0.00008}
+Distance: 3.514
+Poni1: 0.00575
+Poni2: 0.00575
+Rot1: 0.
+Rot2: 0. 
+Rot3: 0.
+Wavelength: 2.5079e-12 
